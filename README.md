@@ -1,6 +1,5 @@
---[[
-BindMenu PRO v2.0
-Autor E Quem Fez Metade Do Código: CodeKernel
+--[[BindMenu PRO v2.0
+Autor :CodeKernel
 
 Descrição:
 BindMenu PRO é um script para SAMP (San Andreas Multiplayer) com MoonLoader + ImGui que permite criar,
