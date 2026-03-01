@@ -1,4 +1,5 @@
-#BindMenu PRO v2.0
+BindMenu PRO v2.0
+
 Autor: CodeKernel
 
 Descrição:
